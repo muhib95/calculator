@@ -1,7 +1,7 @@
 .calculator-body {
-  width: 50%;
+  width: 30%;
   margin-left: 15%;
-  border: 5px solid rgb(85, 77, 77);
+  border: 1px solid rgb(20, 14, 14);
   margin-top: 6%;
 }
 
@@ -22,7 +22,7 @@
 .black-screen {
   width: 100%;
   height: 80px;
-  background-color: #5c0909;
+  background-color: #587bc7;
   color: #fff;
   text-align: right;
   padding-right: 20px;
